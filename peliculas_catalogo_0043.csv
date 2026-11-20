@@ -1,0 +1,7 @@
+﻿id_pelicula,titulo,director,ano_estreno,genero,duracion_minutos,calificacion_imdb,recaudacion_millones,idioma_original,disponible_streaming
+101,Inception,C. Nolan,2010,Ciencia ficcion,148,8.8,836,Ingles,True
+102,The Matrix,L. Wachowski,1999,Ciencia ficcion,136,8.7,463,Ingles,True
+103,Interstellar,C. Nolan,2014,Ciencia ficcion,169,8.6,701,Ingles,True
+104,Parasite,B. Joon-ho,2019,Drama,132,8.5,263,Coreano,True
+105,Avengers,J. Whedon,2012,Accion,143,8.0,1518,Ingles,True
+106,Joker,T. Phillips,2019,Drama,122,8.4,1074,Ingles,True
